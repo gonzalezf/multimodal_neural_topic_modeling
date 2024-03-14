@@ -1,8 +1,7 @@
 
 # Multimodal Neural Topic Models
 
-This repository contains the code for our paper **Neural Multimodal Topic Modeling: A Comprehensive Evaluation
-** presented at LREC-COLING 2024.
+This repository contains the code for our paper **Neural Multimodal Topic Modeling: A Comprehensive Evaluation** presented at LREC-COLING 2024.
 
 ## Abstract
 
@@ -37,6 +36,7 @@ Please cite our paper if you use our models or findings in your research. The ci
 For any queries or further discussion regarding our work, feel free to contact us. 
 
 Felipe González-Pizarro
+
 felipeandresgonzalezpizarro[at] gmail [dot] com
 
 
