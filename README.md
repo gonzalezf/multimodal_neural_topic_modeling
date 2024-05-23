@@ -1,6 +1,8 @@
 
 # Multimodal Neural Topic Models
 
+📢 **May 22, 2024 Update** - Our code will be available by the end of the month. Stay tuned!
+
 This repository contains the code for our paper **Neural Multimodal Topic Modeling: A Comprehensive Evaluation** presented at LREC-COLING 2024.
 
 ## Abstract
