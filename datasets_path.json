@@ -1,0 +1,17 @@
+{            
+    "base_path_dir": {
+        "local": "../../data/"
+        },
+    "base_path_dir_embeddings": {
+        "local": "../../data/"
+    },
+    "COCO": {
+        "local": {
+            "path_file" :  "../../data/coco/annotations/2017_train_val_with_captions_image_path_sample_30000.csv",
+            "image_emb_file" : "../../data/coco/2017_train_val_full_concat_full_image_features_123287_100.pt",
+            "image_emb_file_csv" : "../../data/coco/2017_train_val_full_concat_full_image_features_123287_100.csv",
+            "image_embeddings_index_path" : "../../data/coco/2017_train_val_full_concat_images_index_123287_100.pkl"
+        }
+    }
+
+}
